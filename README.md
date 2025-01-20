@@ -29,6 +29,3 @@
 - **Email:** [zvpdrnls@gmail.com](mailto:zvpdrnls@gmail.com)
 - **Portfolio:** [junyoung's Portfolio](https://www.notion.so/bc97f1723acd462086655e34d317f232)
 
----
-
-위 내용을 복사하여 사용하시거나, 추가 수정이 필요하면 말씀해주세요! 😊
