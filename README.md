@@ -2,12 +2,7 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect
-             &color=gradient
-             &height=150
-             &section=header
-             &text=Hello%2C%20I'm%20Junyoung
-             &fontSize=60"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60"
   alt="header-banner"
   width="100%"
 />
