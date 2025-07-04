@@ -50,7 +50,7 @@
 <!--  하단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=c2e9fb,a1c4fd&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer"
   alt="footer-banner"
   width="100%"
 />
