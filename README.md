@@ -6,7 +6,9 @@
   alt="header-main"
   width="100%"
 />
-
+<p align="left">
+  <small>👨‍💻 Backend Developer</small>
+</p>
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub" /> GitHub Stats
 
