@@ -3,7 +3,7 @@
 <!-- ============= -->
 <!-- 두 줄 텍스트가 한 장의 사각(Rect) 배너 안에 들어갑니다 -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&text=Hello%2C%20I'm%20Junyoung-nl-👨‍💻%20Backend%20Developer&fontSize=32"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&text=Hello%2C%20I'm%20Junyoung-nl-👨‍💻%20Backend%20Developer&fontSize=30"
   alt="profile-banner"
   width="100%"
 />
