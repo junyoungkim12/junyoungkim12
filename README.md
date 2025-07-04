@@ -1,11 +1,13 @@
 <!-- ============= -->
 <!--  상단 배너  -->
 <!-- ============= -->
+<!-- 두 줄 텍스트가 한 장의 사각(Rect) 배너 안에 들어갑니다 -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Hello%2C%20I'm%20Junyoung%20👨‍💻%20Backend%20Developer&fontSize=30"
-  alt="header-main"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&text=Hello%2C%20I'm%20Junyoung%0A%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&fontSize=32"
+  alt="profile-banner"
   width="100%"
 />
+
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub" /> GitHub Stats
 
 <p align="center">
