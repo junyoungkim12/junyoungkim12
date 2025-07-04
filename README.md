@@ -7,7 +7,7 @@
   width="100%"
 />
 
-# 👋 김준영 | Backend Developer  
+# ![My Avatar](https://github.com/<YOUR_USERNAME>.png?size=200) 김준영 | Backend Developer  
 > Java · Spring Boot 기반 서버 개발에 집중하며,  
 > API 설계·협업·테스트에 강점을 가진 개발자입니다.
 
