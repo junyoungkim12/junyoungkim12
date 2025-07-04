@@ -6,7 +6,7 @@
   alt="main-banner"
   width="100%"
 />
- &text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Backend%20Developer&fontSize=24"
+ %F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Backend%20Developer&fontSize=24"
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub" /> GitHub Stats
