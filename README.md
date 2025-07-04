@@ -44,13 +44,5 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,mariadb,aws,docker,git,github,jira,notion,slack" />
 </p>
 
-
-
-<!-- ============= -->
-<!--  하단 배너  -->
-<!-- ============= -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer"
-  alt="footer-banner"
-  width="100%"
-/>
+## 🏅 Certifications
+- **정보처리기사** (2025.6 취득)
