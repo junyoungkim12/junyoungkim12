@@ -1,14 +1,15 @@
 <!-- ============= -->
 <!--  상단 배너  -->
 <!-- ============= -->
+<p align="center">
+  <small>👨‍💻 Backend Developer</small>
+</p>
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=64"
   alt="main-banner"
   width="100%"
 />
-<p align="center">
-  <small>👨‍💻 Backend Developer</small>
-</p>
+
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub" /> GitHub Stats
