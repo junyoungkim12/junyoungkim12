@@ -2,7 +2,7 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=A6D953,C5D953&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60"
+  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20I%27m%20JunYoung&fontSize=100"
   alt="header-banner"
   width="100%"
 />
@@ -33,9 +33,8 @@
 ## 🧑‍💼 Experience
 
 - **구름톤 풀스택 7기 – 발구름 IDE** (2024.06 ~ 2024.08)  
-  팀장 역할로 백엔드 전반(회원·게시판·채팅) 개발 및 배포  
-- **이디핏(Edifit)** (2024.07 ~ 2024.08)  
-  운동·식단 기록 관리 기능 구현  
+  팀장 역할로 백엔드 전반(회원·게시판) 개발 및 배포  
+
 
 ---
 
