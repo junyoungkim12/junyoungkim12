@@ -6,6 +6,13 @@
   alt="header-banner"
   width="100%"
 />
+
+<!-- 서브 배너: Backend Developer 👨‍💻 -->
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=A6D953,C5D953&height=48&section=header&text=Backend%20Developer%20👨‍💻&fontSize=24"
+  alt="header-sub"
+  width="100%"
+/>
 <br>
 
 
@@ -15,12 +22,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=junyoungkim12&show_icons=true&theme=light"
     alt="GitHub Stats" 
-    style="height:150px; margin-right:10px;"
+    style="height:180px; margin-right:10px;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyoungkim12&layout=compact&theme=light"
     alt="Top Languages"
-    style="height:150px;"
+    style="height:180px;"
   />
 </p>
 <br>
