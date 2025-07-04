@@ -2,8 +2,15 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&text=Hello%2C%20I'm%20Junyoung&fontSize=64"section=footer&text=👨‍💻%20Backend%20Developer&fontSize=24"
-  alt="header-with-footer-text"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=64"
+  alt="main-banner"
+  width="100%"
+/>
+
+<!-- 2) 배너 하단(푸터)에 Backend Developer만 -->
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=footer&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Backend%20Developer&fontSize=24"
+  alt="sub-banner"
   width="100%"
 />
 
