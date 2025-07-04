@@ -2,7 +2,7 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=footer&text=👨‍💻%20Backend%20Developer&fontSize=24"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&text=Hello%2C%20I'm%20Junyoung&fontSize=64"$section=footer&text=👨‍💻%20Backend%20Developer&fontSize=24"
   alt="header-with-footer-text"
   width="100%"
 />
