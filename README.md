@@ -2,21 +2,10 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60"
-  alt="header-banner"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=footer&text=👨‍💻%20Backend%20Developer&fontSize=24"
+  alt="header-with-footer-text"
   width="100%"
 />
-
-<!-- 서브 배너: Backend Developer 👨‍💻 -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient3&height=48&section=header&text=Backend%20Developer%20👨‍💻&fontSize=24"
-  alt="header-sub"
-  width="100%"
-/>
-<p align="center" style="margin-top:-24px; font-size:24px; font-weight:600;">
-  👨‍💻 Backend Developer
-</p>
-<br>
 
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub" /> GitHub Stats
