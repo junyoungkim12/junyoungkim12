@@ -2,7 +2,7 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20I%27m%20JunYoung&fontSize=100"
+  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20I%27m%20JunYoung&fontSize=85"
   alt="header-banner"
   width="100%"
 />
@@ -11,7 +11,7 @@
 > Java · Spring Boot 기반 서버 개발에 집중하며,  
 > API 설계·협업·테스트에 강점을 가진 개발자입니다.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -28,7 +28,7 @@
   />
 </p>
 
----
+
 
 ## 🧑‍💼 Experience
 
@@ -36,7 +36,7 @@
   팀장 역할로 백엔드 전반(회원·게시판) 개발 및 배포  
 
 
----
+
 
 ## ⚙️ Stacks
 
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,mariadb,aws,docker,git,github,jira,notion,slack" />
 </p>
 
----
+
 
 <!-- ============= -->
 <!--  하단 배너  -->
