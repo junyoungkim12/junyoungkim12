@@ -2,31 +2,37 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20I%27m%20JunYoung&fontSize=85"
+  src="https://capsule-render.vercel.app/api?type=rect
+             &color=gradient
+             &height=150
+             &section=header
+             &text=Hello%2C%20I'm%20Junyoung
+             &fontSize=60"
   alt="header-banner"
   width="100%"
 />
 
-# ![Junyoung's Avatar](https://github.com/junyoungkim12.png?size=200) 김준영 | Backend Developer  
+# 👋 김준영 | Backend Developer  
 > Java · Spring Boot 기반 서버 개발에 집중하며,  
 > API 설계·협업·테스트에 강점을 가진 개발자입니다.
 
 
 
-## 📊 GitHub Stats
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub" /> GitHub Stats
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=junyoungkim12&show_icons=true&theme=light"
     alt="GitHub Stats" 
-    style="height:200px; margin-right:10px;"
+    style="height:150px; margin-right:10px;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyoungkim12&layout=compact&theme=light"
     alt="Top Languages"
-    style="height:200px;"
+    style="height:150px;"
   />
 </p>
+
 
 
 
