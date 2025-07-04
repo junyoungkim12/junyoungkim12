@@ -2,17 +2,20 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60section=header&text=Backend%20Developer%20👨‍💻&fontSize=24"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60"
   alt="header-banner"
   width="100%"
 />
 
 <!-- 서브 배너: Backend Developer 👨‍💻 -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=A6D953,C5D953&height=48&section=header&text=Backend%20Developer%20👨‍💻&fontSize=24"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient3&height=48&section=header&text=Backend%20Developer%20👨‍💻&fontSize=24"
   alt="header-sub"
   width="100%"
 />
+<p align="center" style="margin-top:-24px; font-size:24px; font-weight:600;">
+  👨‍💻 Backend Developer
+</p>
 <br>
 
 
