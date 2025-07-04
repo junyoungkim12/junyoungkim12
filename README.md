@@ -2,13 +2,13 @@
 <!--  상단 배너  -->
 <!-- ============= -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=FFDEE9,B5FFFC&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60"
+  src="https://capsule-render.vercel.app/api?type=rect&color=a6d953&height=150&section=header&text=Hello%2C%20I'm%20Junyoung&fontSize=60"
   alt="header-banner"
   width="100%"
 />
 
 # 👋 김준영 | Backend Developer  
-> Java · Spring Boot 기반 서버 개발에 집중하며,  
+> Java · Spring Boot 기반 서버 개발에 집중하며
 > API 설계·협업·테스트에 강점을 가진 개발자입니다.
 
 ---
